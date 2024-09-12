@@ -13,7 +13,8 @@
 <div> 
   <a href="https://www.instagram.com/lluan.aa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luana-da-silva-fb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/luana-da-silva-fb/" target="_blank"><img src="https://img.shields.io/badge/-Curriculum-%4a2c76?style=for-the-badge&logo-8A2BE2Color=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/luana-da-silva-fb/" target="_blank"><img src="https://img.shields.io/badge/-Curriculum-%234a2c76?style=for-the-badge&logoColor=white" alt="Curriculum"></a>
+
 </div>
 
           
