@@ -1,4 +1,4 @@
-###  Hi, I am a full stack developer. :sparkling_heart: :sparkles:
+###  Hi, I am a full stack developer. :sparkling_heart::sparkles:
 
 <div>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lluanaa&hide_progress=true" alt="Top Languages" />
