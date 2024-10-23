@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/luana-da-silva-fb/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:seuemail@example.com" target="_blank">
+  <a href="mailto:lstylik13@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-%23FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
