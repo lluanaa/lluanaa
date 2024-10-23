@@ -15,7 +15,7 @@
 
 <div>
   <a href="https://www.instagram.com/lluan.aa/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lluanaa&hide_progress=true&theme=tokyonight" alt="Top Languages" />
   </a>
   <a href="https://www.linkedin.com/in/luana-da-silva-fb/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
