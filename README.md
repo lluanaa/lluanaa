@@ -1,7 +1,7 @@
 ### Hi, I am a full stack developer! :sparkling_heart::sparkles:
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lluanaa&hide_progress=true&theme=merko" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lluanaa&hide_progress=true&theme=synthwave" alt="Top Languages" />
 </div>
   
 <div style="display: inline_block"><br>
