@@ -13,9 +13,15 @@
   
 ##
 
-<div> 
- <a href="https://www.instagram.com/lluan.aa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/luana-da-silva-fb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://link-para-o-seu-curriculo.com" target="_blank"><img src="https://img.shields.io/badge/Curriculum-%234B0082?style=for-the-badge&logo=googlegemini&logoColor=fff" alt="Curriculum"></a>
-<a href="mailto:seuemail@example.com" target="_blank"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<div>
+  <a href="https://www.instagram.com/lluan.aa/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/luana-da-silva-fb/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:seuemail@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-%23FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </div>
+
