@@ -1,20 +1,31 @@
-### Hi, I am a full stack developer! :sparkling_heart::sparkles:
+### Hi there! 👋 :sparkling_heart::sparkles:
+I am Luana, a passionate Full Stack Developer! 🚀  
+🌟 I specialize in building dynamic and responsive web and mobile applications.
+
+### About Me  
+- 🌍 Based in Brazil.
+- 🎓 Graduated in Systems Analysis and Development.
+- 💼 Currently exploring opportunities.
+- 🌱 Constantly learning and improving, currently focused on TypeScript and Node.js.
+
+##
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lluanaa&hide_progress=true&theme=highcontrast" alt="Top Languages" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lluanaa&theme=highcontrast" alt="Luana's GitHub Streak" />
 </div>
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="Luana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Luana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Luana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Luana-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-</div>
+### Tech Stack 🚀  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   
 ##
 
+### Let's Connect! 🌐
 <div> 
  <a href="https://www.instagram.com/lluan.aa/" target="_blank">
    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
