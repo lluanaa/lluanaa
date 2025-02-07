@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-9966FF?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-## :milky_way: Connect With Me
+## :milky_way: Connect with Me
 <p align="center">
   <a href="https://www.instagram.com/lluan.aa/"><img src="https://img.shields.io/badge/-Instagram-8A4FFF?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/luana-da-silva-fb/"><img src="https://img.shields.io/badge/-LinkedIn-9966FF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
