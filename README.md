@@ -8,13 +8,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lluanaa&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
-   </div>
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lluanaa&theme=buefy-dark" alt="Luana's GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lluanaa&layout=compact&theme=tokyonight&hide_border=false" alt="Most Used Languages" />
 <p/>
 
 <p>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lluanaa&layout=compact&theme=tokyonight&hide_border=false" alt="Most Used Languages" />
+
 </p>
 
 ## :space_invader: Activity Graph
