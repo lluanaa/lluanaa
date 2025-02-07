@@ -1,32 +1,41 @@
-### Hi there! 👋
-I am Luana, a passionate Full Stack Developer! :sparkling_heart::sparkles:  
-I specialize in building dynamic and responsive web and mobile applications. 🌟
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=a277ff&height=120&section=header" />
+</p>
 
-### About Me  
-- 🌍 Based in Brazil.
-- 🎓 Graduated in Systems Analysis and Development.
-- 💼 Currently exploring opportunities.
-- 🌱 Constantly learning and improving, currently focused on TypeScript and Node.js.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=8A4FFF&center=true&vCenter=true&width=450&lines=Hello%2C+I'm+Luana!+%F0%9F%91%8B;Full+Stack+Developer!+%E2%9C%A8" />
+</h1>
 
-##
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lluanaa&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lluanaa&theme=buefy-dark" alt="Luana's GitHub Streak" />
+ </div>
+</p>
 
-<div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lluanaa&theme=highcontrast" alt="Luana's GitHub Streak" />
-</div>
-  
-### Tech Stack 🚀  
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  
-##
+<p>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lluanaa&layout=compact&theme=tokyonight&hide_border=false" alt="Most Used Languages" />
+</p>
 
-### Let's Connect! 🌐
+## :space_invader: Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lluanaa&theme=tokyo-night" alt="GitHub Activity Graph" />
+</p>
 
-- [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/lluan.aa/)
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luana-da-silva-fb/)
-- [![Email](https://img.shields.io/badge/-Email-%23FF0000?style=flat-square&logo=gmail&logoColor=white)](mailto:ltylik13@gmail.com)
+## :purple_heart: Technologies and Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-8A4FFF?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-9966FF?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-A277FF?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-B084F4?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-AC7DD1?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-8A4FFF?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-9966FF?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+## :milky_way: Connect With Me
+<p align="center">
+  <a href="https://www.instagram.com/lluan.aa/"><img src="https://img.shields.io/badge/-Instagram-8A4FFF?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/luana-da-silva-fb/"><img src="https://img.shields.io/badge/-LinkedIn-9966FF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:ltylik13@gmail.com"><img src="https://img.shields.io/badge/-Email-A277FF?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
