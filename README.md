@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=a277ff&height=120&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=a277ff&height=120&section=header" style="width: 100%;" />
 </p>
 
 <h1 align="center">
@@ -39,4 +39,8 @@
   <a href="https://www.instagram.com/lluan.aa/"><img src="https://img.shields.io/badge/-Instagram-8A4FFF?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/luana-da-silva-fb/"><img src="https://img.shields.io/badge/-LinkedIn-9966FF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:ltylik13@gmail.com"><img src="https://img.shields.io/badge/-Email-A277FF?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=a277ff&height=120&section=header" style="width: 100%;" />
 </p>
