@@ -8,12 +8,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lluanaa&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
+   </div>
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=lluanaa&theme=buefy-dark" alt="Luana's GitHub Streak" />
 <p/>
-  
-  <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lluanaa&theme=buefy-dark" alt="Luana's GitHub Streak" />
- </div>
-</p>
 
 <p>
   <div align="center">
