@@ -41,6 +41,6 @@
   <a href="mailto:ltylik13@gmail.com"><img src="https://img.shields.io/badge/-Email-A277FF?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=a277ff&height=120&section=header" style="width: 100%;" />
+<p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=a277ff&height=120&section=footer" style="width: 100%;" /> 
 </p>
