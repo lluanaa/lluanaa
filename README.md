@@ -7,20 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lluanaa&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
-<p/>
-  
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lluanaa&layout=compact&theme=tokyonight&hide_border=false" alt="Most Used Languages" />
-</p>
-
-<p align="center">
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lluanaa&theme=buefy-dark" alt="Luana's GitHub Streak" />
-</p>
-
-## :space_invader: Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lluanaa&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
 ## :purple_heart: Technologies and Tools
