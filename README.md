@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=8A4FFF&center=true&vCenter=true&width=450&lines=Hello%2C+I'm+Luana!+%F0%9F%91%8B;Full+Stack+Developer!+%E2%9C%A8" />
 </h1>
 
-<p align="center">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=lluanaa&theme=buefy-dark" alt="Luana's GitHub Streak" />
-</p>
-
 ## :purple_heart: Technologies and Tools
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-8A4FFF?style=for-the-badge&logo=javascript&logoColor=white" />
