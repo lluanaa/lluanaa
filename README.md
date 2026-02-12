@@ -1,29 +1,20 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=a277ff&height=120&section=header" style="width: 100%;" />
-</p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=8A4FFF&center=true&vCenter=true&width=450&lines=Hello%2C+I'm+Luana!+%F0%9F%91%8B;Full+Stack+Developer!+%E2%9C%A8" />
-</h1>
+### Hi, I'm Luana 👋
 
-## :purple_heart: Technologies and Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-8A4FFF?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-9966FF?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-A277FF?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-B084F4?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-AC7DD1?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-8A4FFF?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-9966FF?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
+Full Stack Developer.
 
-## :milky_way: Connect with Me
-<p align="center">
-  <a href="https://www.instagram.com/lluan.aa/"><img src="https://img.shields.io/badge/-Instagram-8A4FFF?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/luana-da-silva-fb/"><img src="https://img.shields.io/badge/-LinkedIn-9966FF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:ltylik13@gmail.com"><img src="https://img.shields.io/badge/-Email-A277FF?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+🦄 **Languages:** Go • TypeScript
 
-<p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=a277ff&height=120&section=footer" style="width: 100%;" /> 
+💼 **Tools:** React.js • Node.js • MongoDB • Google Cloud Platform • Docker
+
+💌 **Let's connect:**
+
+<p align="left">
+  <a href="mailto:ltylik13@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/luana-da-silva-fb/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/lluan.aa/" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
