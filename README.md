@@ -6,7 +6,7 @@ Full Stack Developer.
 
 🦄 **Languages:** Go • TypeScript
 
-💼 **Tools:** React.js • Node.js • MongoDB • Google Cloud Platform • Docker
+💼 **Tools:** React.js • Node.js • MongoDB • GCP • Docker
 
 💌 **Let's connect:**
 
