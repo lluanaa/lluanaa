@@ -1,4 +1,4 @@
-<img src="./assets/sanrio-hellokitty-kawaii-cute-discord-gif.gif" alt="hello kitty cute gif" width="210px" align="right">
+<img src="./assets/sanrio-hellokitty-kawaii-cute-discord-gif.gif" alt="hello kitty cute gif" width="200px" align="right">
 
 ### ⟢ Hi, I'm Luana ⟢
 
