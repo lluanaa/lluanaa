@@ -1,16 +1,12 @@
-<img src="./assets/sanrio-hellokitty-kawaii-cute-discord-gif.gif" alt="hello kitty cute gif" width="200px" align="right">
+<div align="center">
 
 ### ⟢ Hi, I'm Luana ⟢
 
-Full Stack Developer
+Full Stack Developer made of code, coffee and a lot of music
 
- made of code, coffee and a lot of music
- 
 ![divider](https://capsule-render.vercel.app/api?type=soft&color=ff1493&height=3&section=header&width=100%)
 
 #### ⟢ stack ⟢
-
-<br>
 
 **languages**
 
@@ -44,8 +40,6 @@ Full Stack Developer
 ![Kafka](https://img.shields.io/badge/Kafka-1a0a2e?style=for-the-badge&logo=apachekafka&logoColor=ff1493)
 ![gRPC](https://img.shields.io/badge/gRPC-1a0a2e?style=for-the-badge&logo=grpc&logoColor=ff1493)
 
-<br>
-
 ![divider](https://capsule-render.vercel.app/api?type=soft&color=ff1493&height=3&section=header&width=100%)
 
 #### ⟢ where to find me ⟢
@@ -53,6 +47,8 @@ Full Stack Developer
 [![blog](https://img.shields.io/badge/luana.dev-1a0a2e?style=for-the-badge&logoColor=ff1493)](https://lluana.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-1a0a2e?style=for-the-badge&logo=linkedin&logoColor=ff1493)](https://linkedin.com/in/luanadasilvadev/)
 
-<br>
-
 **thanks for stopping by**
+
+<img src="./assets/sanrio-hellokitty-kawaii-cute-discord-gif.gif" alt="hello kitty cute gif" width="180px">
+
+</div>
