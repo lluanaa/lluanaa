@@ -6,12 +6,11 @@ Full Stack Developer made of code, coffee and a lot of music
 
 ![divider](https://capsule-render.vercel.app/api?type=soft&color=ff1493&height=3&section=header&width=100%)
 
-#### ⟢ stack ⟢
+### ⟢ stack ⟢
 
 **languages**
 
 ![Go](https://img.shields.io/badge/Go-1a0a2e?style=for-the-badge&logo=go&logoColor=ff1493)
-![Java](https://img.shields.io/badge/Java-1a0a2e?style=for-the-badge&logo=openjdk&logoColor=ff1493)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1a0a2e?style=for-the-badge&logo=typescript&logoColor=ff1493)
 
 **runtime**
@@ -22,9 +21,11 @@ Full Stack Developer made of code, coffee and a lot of music
 **frontend**
 
 ![React](https://img.shields.io/badge/React.js-1a0a2e?style=for-the-badge&logo=react&logoColor=ff1493)
+![Next](https://img.shields.io/badge/Next.js-1a0a2e?style=for-the-badge&logo=nextdotjs&logoColor=ff1493)
+![Vue](https://img.shields.io/badge/Vue.js-1a0a2e?style=for-the-badge&logo=vuedotjs&logoColor=ff1493)
+![Vite](https://img.shields.io/badge/Vite-1a0a2e?style=for-the-badge&logo=vite&logoColor=ff1493)
 ![React Native](https://img.shields.io/badge/React_Native-1a0a2e?style=for-the-badge&logo=react&logoColor=ff1493)
 ![Electron](https://img.shields.io/badge/Electron-1a0a2e?style=for-the-badge&logo=electron&logoColor=ff1493)
-![JSF](https://img.shields.io/badge/JSF-1a0a2e?style=for-the-badge&logo=jakartaee&logoColor=ff1493)
 
 **data**
 
@@ -32,19 +33,22 @@ Full Stack Developer made of code, coffee and a lot of music
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a0a2e?style=for-the-badge&logo=postgresql&logoColor=ff1493)
 ![MariaDB](https://img.shields.io/badge/MariaDB-1a0a2e?style=for-the-badge&logo=mariadb&logoColor=ff1493)
 ![Redis](https://img.shields.io/badge/Redis-1a0a2e?style=for-the-badge&logo=redis&logoColor=ff1493)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-1a0a2e?style=for-the-badge&logo=elasticsearch&logoColor=ff1493)
+![Kibana](https://img.shields.io/badge/Kibana-1a0a2e?style=for-the-badge&logo=kibana&logoColor=ff1493)
 
 **infra & messaging**
 
 ![Docker](https://img.shields.io/badge/Docker-1a0a2e?style=for-the-badge&logo=docker&logoColor=ff1493)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1a0a2e?style=for-the-badge&logo=kubernetes&logoColor=ff1493)
 ![GCP](https://img.shields.io/badge/GCP-1a0a2e?style=for-the-badge&logo=googlecloud&logoColor=ff1493)
 ![Kafka](https://img.shields.io/badge/Kafka-1a0a2e?style=for-the-badge&logo=apachekafka&logoColor=ff1493)
 ![gRPC](https://img.shields.io/badge/gRPC-1a0a2e?style=for-the-badge&logo=grpc&logoColor=ff1493)
 
 ![divider](https://capsule-render.vercel.app/api?type=soft&color=ff1493&height=3&section=header&width=100%)
 
-#### ⟢ where to find me ⟢
+### ⟢ where to find me ⟢
 
-[![blog](https://img.shields.io/badge/luana.dev-1a0a2e?style=for-the-badge&logoColor=ff1493)](https://lluana.com/)
+[![blog](https://img.shields.io/badge/lluana.com-1a0a2e?style=for-the-badge&logoColor=ff1493)](https://lluana.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-1a0a2e?style=for-the-badge&logo=linkedin&logoColor=ff1493)](https://linkedin.com/in/luanadasilvadev/)
 
 **thanks for stopping by**
