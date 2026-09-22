@@ -8,42 +8,16 @@
 
 </div>
 
-```
-luana@dev:~$ whoami
-
-> full-stack developer
-> building APIs, microservices and distributed systems
-> 3+ years of professional development experience
-> currently working with Go, Kafka, gRPC and MongoDB
-
-luana@dev:~$ stack
-
-  languages  go · typescript · javascript
-  backend    go · node.js · bun · grpc · rest
-  frontend   react · next.js · vite · vue · react-native · electron
-  databases  mongodb · postgresql · mariadb · redis · elasticsearch
-  messaging  kafka
-  systems    linux
-  infra      docker · kubernetes · gcp
-
-luana@dev:~$ experience
-
-> 240+ microservices in production
-> APIs and integrations with external services
-> event-driven architectures with Kafka
-> distributed systems using gRPC and REST
-
-```
-
 <div align="center">
+
+<img src="./assets/terminal.svg" alt="terminal" width="620">
+
+<br/>
+<br/>
 
 [<img src="https://api.iconify.design/mdi/web.svg?color=%23ff1493" width="22" alt="website"/>](https://lluana.com/)&nbsp;&nbsp;&nbsp;
 [<img src="https://api.iconify.design/mdi/linkedin.svg?color=%23ff1493" width="22" alt="linkedin"/>](https://linkedin.com/in/luanadasilvadev/)&nbsp;&nbsp;&nbsp;
 [<img src="https://api.iconify.design/mdi/github.svg?color=%23ff1493" width="22" alt="github"/>](https://github.com/lluanaa)
-
-</div>
-
-<div align="center">
 
 ![divider](https://capsule-render.vercel.app/api?type=soft&color=ff1493&height=2&section=header&width=100%)
 
