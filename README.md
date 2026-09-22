@@ -2,57 +2,50 @@
 
 ### ⟢ Hi, I'm Luana ⟢
 
-Full Stack Developer made of code, coffee and a lot of music
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=460&lines=Full-Stack+Developer;Go+%2B+TypeScript;building+distributed+systems" alt="typing-svg" />
 
-![divider](https://capsule-render.vercel.app/api?type=soft&color=ff1493&height=3&section=header&width=100%)
+![divider](https://capsule-render.vercel.app/api?type=soft\&color=ff1493\&height=2\&section=header\&width=100%)
 
-### ⟢ stack ⟢
+</div>
 
-**languages**
+```bash
+luana@dev:~$ whoami
 
-![Go](https://img.shields.io/badge/Go-1a0a2e?style=for-the-badge&logo=go&logoColor=ff1493)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a0a2e?style=for-the-badge&logo=typescript&logoColor=ff1493)
+> full-stack developer
+> building APIs, microservices and distributed systems
+> 3+ years of professional development experience
+> currently working with Go, Kafka, gRPC and MongoDB
 
-**runtime**
+luana@dev:~$ stack
 
-![Node](https://img.shields.io/badge/Node.js-1a0a2e?style=for-the-badge&logo=node.js&logoColor=ff1493)
-![Bun](https://img.shields.io/badge/Bun-1a0a2e?style=for-the-badge&logo=bun&logoColor=ff1493)
+  languages  go · typescript · javascript
+  backend    go · node.js · bun · grpc · rest
+  frontend   react · next.js · vite · vue · react-native · electron
+  databases  mongodb · postgresql · mariadb · redis · elasticsearch
+  messaging  kafka
+  systems    linux
+  infra      docker · kubernetes · gcp
 
-**frontend**
+luana@dev:~$ experience
 
-![React](https://img.shields.io/badge/React.js-1a0a2e?style=for-the-badge&logo=react&logoColor=ff1493)
-![Next](https://img.shields.io/badge/Next.js-1a0a2e?style=for-the-badge&logo=nextdotjs&logoColor=ff1493)
-![Vue](https://img.shields.io/badge/Vue.js-1a0a2e?style=for-the-badge&logo=vuedotjs&logoColor=ff1493)
-![Vite](https://img.shields.io/badge/Vite-1a0a2e?style=for-the-badge&logo=vite&logoColor=ff1493)
-![React Native](https://img.shields.io/badge/React_Native-1a0a2e?style=for-the-badge&logo=react&logoColor=ff1493)
-![Electron](https://img.shields.io/badge/Electron-1a0a2e?style=for-the-badge&logo=electron&logoColor=ff1493)
+> 240+ microservices in production
+> APIs and integrations with external services
+> event-driven architectures with Kafka
+> distributed systems using gRPC and REST
 
-**data**
+luana@dev:~$ links --show
+```
 
-![MongoDB](https://img.shields.io/badge/MongoDB-1a0a2e?style=for-the-badge&logo=mongodb&logoColor=ff1493)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a0a2e?style=for-the-badge&logo=postgresql&logoColor=ff1493)
-![MariaDB](https://img.shields.io/badge/MariaDB-1a0a2e?style=for-the-badge&logo=mariadb&logoColor=ff1493)
-![Redis](https://img.shields.io/badge/Redis-1a0a2e?style=for-the-badge&logo=redis&logoColor=ff1493)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-1a0a2e?style=for-the-badge&logo=elasticsearch&logoColor=ff1493)
-![Kibana](https://img.shields.io/badge/Kibana-1a0a2e?style=for-the-badge&logo=kibana&logoColor=ff1493)
+<div align="center">
 
-**infra & messaging**
+[![website](https://img.shields.io/badge/lluana.com-1a0a2e?style=flat-square\&logoColor=ff1493)](https://lluana.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-1a0a2e?style=flat-square\&logo=linkedin\&logoColor=ff1493)](https://linkedin.com/in/luanadasilvadev/)
+[![github](https://img.shields.io/badge/github-1a0a2e?style=flat-square\&logo=github\&logoColor=ff1493)](https://github.com/lluanaa)
 
-![Docker](https://img.shields.io/badge/Docker-1a0a2e?style=for-the-badge&logo=docker&logoColor=ff1493)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-1a0a2e?style=for-the-badge&logo=kubernetes&logoColor=ff1493)
-![GCP](https://img.shields.io/badge/GCP-1a0a2e?style=for-the-badge&logo=googlecloud&logoColor=ff1493)
-![Kafka](https://img.shields.io/badge/Kafka-1a0a2e?style=for-the-badge&logo=apachekafka&logoColor=ff1493)
-![gRPC](https://img.shields.io/badge/gRPC-1a0a2e?style=for-the-badge&logo=grpc&logoColor=ff1493)
+![divider](https://capsule-render.vercel.app/api?type=soft\&color=ff1493\&height=2\&section=header\&width=100%)
 
-![divider](https://capsule-render.vercel.app/api?type=soft&color=ff1493&height=3&section=header&width=100%)
+**thanks for stopping by** ⟢
 
-### ⟢ where to find me ⟢
-
-[![blog](https://img.shields.io/badge/lluana.com-1a0a2e?style=for-the-badge&logoColor=ff1493)](https://lluana.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-1a0a2e?style=for-the-badge&logo=linkedin&logoColor=ff1493)](https://linkedin.com/in/luanadasilvadev/)
-
-**thanks for stopping by**
-
-<img src="./assets/sanrio-hellokitty-kawaii-cute-discord-gif.gif" alt="hello kitty cute gif" width="180px">
+<img src="./assets/sanrio-hellokitty-kawaii-cute-discord-gif.gif" alt="hello kitty cute gif" width="150px">
 
 </div>
