@@ -15,4 +15,4 @@
 
 [<img src="https://api.iconify.design/mdi/web.svg?color=%23ff1493" width="22" alt="website"/>](https://lluana.com/)&nbsp;&nbsp;&nbsp;
 [<img src="https://api.iconify.design/mdi/linkedin.svg?color=%23ff1493" width="22" alt="linkedin"/>](https://linkedin.com/in/luanadasilvadev/)&nbsp;&nbsp;&nbsp;
-[<img src="https://api.iconify.design/mdi/github.svg?color=%23ff1493" width="22" alt="github"/>](https://github.com/lluanaa)
+[<img src="https://cdn.simpleicons.org/github/ff1493" width="22" alt="github"/>](https://github.com/lluanaa)
