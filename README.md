@@ -5,7 +5,7 @@
 <br /><br />
 
 <a href="https://lluana.com/"><img src="https://img.shields.io/badge/blog-lluana.com-ff4fa3?style=for-the-badge&labelColor=1a0b1e&logo=rss&logoColor=ff4fa3" alt="Blog" /></a>
-<a href="https://www.linkedin.com/in/luanadasilvadev"><img src="https://img.shields.io/badge/linkedin-luanadasilvadev-ff4fa3?style=for-the-badge&labelColor=1a0b1e&logo=linkedin&logoColor=ff4fa3" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/luanadasilvadev"><img src="https://img.shields.io/badge/linkedin-luanadasilvadev-ff4fa3?style=for-the-badge&labelColor=1a0b1e" alt="LinkedIn" /></a>
 <a href="https://github.com/lluanaa?tab=repositories"><img src="https://img.shields.io/badge/github-lluanaa-ff4fa3?style=for-the-badge&labelColor=1a0b1e&logo=github&logoColor=ff4fa3" alt="GitHub" /></a>
 
 <br /><br />
@@ -15,7 +15,6 @@
 <br /><br />
 
 <img src="https://streak-stats.demolab.com/?user=lluanaa&background=1a0b1e&border=4a1f4d&stroke=4a1f4d&ring=ff4fa3&fire=ff4fa3&currStreakNum=ffe3f1&currStreakLabel=ff4fa3&sideNums=ffe3f1&sideLabels=ff9ccb&dates=a98aa6" height="170" alt="GitHub streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lluanaa&layout=compact&langs_count=6&bg_color=1a0b1e&border_color=4a1f4d&title_color=ff4fa3&text_color=ffe3f1" height="170" alt="Most used languages" />
 
 <br /><br />
 
