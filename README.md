@@ -2,11 +2,7 @@
 
 <img src="./assets/header.svg" width="100%" alt="Hi, I'm Luana da Silva — full-stack developer" />
 
-<br /><br />
 
-<a href="https://lluana.com/"><img src="https://img.shields.io/badge/blog-lluana.com-ff4fa3?style=for-the-badge&labelColor=1a0b1e&logo=rss&logoColor=ff4fa3" alt="Blog" /></a>
-<a href="https://www.linkedin.com/in/luanadasilvadev"><img src="https://img.shields.io/badge/linkedin-luanadasilvadev-ff4fa3?style=for-the-badge&labelColor=1a0b1e" alt="LinkedIn" /></a>
-<a href="https://github.com/lluanaa?tab=repositories"><img src="https://img.shields.io/badge/github-lluanaa-ff4fa3?style=for-the-badge&labelColor=1a0b1e&logo=github&logoColor=ff4fa3" alt="GitHub" /></a>
 
 <br /><br />
 
