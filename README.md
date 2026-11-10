@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Hi, I'm Luana da Silva — full-stack developer" />
+<img src="./assets/header.svg" width="80%" alt="Hi, I'm Luana da Silva — full-stack developer" />
 
 
 
 <br /><br />
 
-<img src="./assets/terminal.svg" width="100%" alt="Terminal: full-stack developer with 3+ years of experience, working with Go, Kafka, gRPC and MongoDB across 240+ microservices in production" />
+<img src="./assets/terminal.svg" width="80%" alt="Terminal: full-stack developer with 3+ years of experience, working with Go, Kafka, gRPC and MongoDB across 240+ microservices in production" />
 
 <br /><br />
 
@@ -14,9 +14,9 @@
 
 <br /><br />
 
-<img src="https://raw.githubusercontent.com/lluanaa/lluanaa/output/snake.svg" width="100%" alt="Contribution graph being eaten by a pink snake" />
+<img src="https://raw.githubusercontent.com/lluanaa/lluanaa/output/snake.svg" width="90%" alt="Contribution graph being eaten by a pink snake" />
 
-<br />
+<br /><br />
 
 <sub>made with ♡ and too much coffee · <a href="https://lluana.com/">lluana.com</a></sub>
 
