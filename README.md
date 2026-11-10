@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="80%" alt="Hi, I'm Luana da Silva — full-stack developer" />
+<img src="./assets/header.svg" width="90%" alt="Hi, I'm Luana da Silva — full-stack developer" />
 
 
 
 <br /><br />
 
-<img src="./assets/terminal.svg" width="80%" alt="Terminal: full-stack developer with 3+ years of experience, working with Go, Kafka, gRPC and MongoDB across 240+ microservices in production" />
+<img src="./assets/terminal.svg" width="90%" alt="Terminal: full-stack developer with 3+ years of experience, working with Go, Kafka, gRPC and MongoDB across 240+ microservices in production" />
 
 <br /><br />
 
